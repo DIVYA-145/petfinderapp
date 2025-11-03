@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/petfinderapp/static/css/main.df483a75.css",
+    "main.js": "/petfinderapp/static/js/main.2cf850e2.js",
+    "static/media/pic2.jpg": "/petfinderapp/static/media/pic2.53845f16f614aa715600.jpg",
+    "static/media/dogpic.png": "/petfinderapp/static/media/dogpic.1b1ef7296f91ca66534e.png",
+    "static/media/logo1.png": "/petfinderapp/static/media/logo1.d467d7e025b0f71218da.png",
+    "static/media/face.jpg": "/petfinderapp/static/media/face.8355a65a299f0df7615f.jpg",
+    "static/media/pic1.png": "/petfinderapp/static/media/pic1.acafd83bb27415d5592a.png",
+    "static/media/pic3.jpg": "/petfinderapp/static/media/pic3.ec100d5431bf5ce1e8bd.jpg",
+    "static/media/C.png": "/petfinderapp/static/media/C.10c5833683b497fde1c7.png",
+    "static/media/user1.jpg": "/petfinderapp/static/media/user1.7196d81bcf332363a946.jpg",
+    "static/media/user3.jpg": "/petfinderapp/static/media/user3.efbe1d0f768c4537a377.jpg",
+    "index.html": "/petfinderapp/index.html",
+    "main.df483a75.css.map": "/petfinderapp/static/css/main.df483a75.css.map",
+    "main.2cf850e2.js.map": "/petfinderapp/static/js/main.2cf850e2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df483a75.css",
+    "static/js/main.2cf850e2.js"
+  ]
+}
